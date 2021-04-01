@@ -1,0 +1,33 @@
+/*
+ * Copyright (c) 2021. The XPerience Project
+ *
+ *  Licensed under the GNU GPLv2 license
+ *
+ *   The text of the license can be found in the LICENSE file
+ *   or at https://www.gnu.org/licenses/gpl-2.0.txt
+ */
+
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:4.1.2"
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
