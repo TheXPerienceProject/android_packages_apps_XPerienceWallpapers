@@ -19,16 +19,30 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_0</item>
-        <item>wallpaper_1</item>
-        <item>wallpaper_2</item>
-        <item>wallpaper_3</item>
-        <item>wallpaper_4</item>
-        <item>wallpaper_5</item>
-        <item>wallpaper_6</item>
-        <item>wallpaper_7</item>
-        <item>wallpaper_8</item>
-        <item>wallpaper_9</item>
+        <item>wallpaper_xpe_0</item>
+        <item>wallpaper_xpe_1</item>
+        <item>wallpaper_xpe_2</item>
+        <item>wallpaper_xpe_3</item>
+        <item>wallpaper_xpe_4</item>
+        <item>wallpaper_xpe_5</item>
+        <item>wallpaper_xpe_6</item>
+        <item>wallpaper_xpe_7</item>
+        <item>wallpaper_xpe_8</item>
+        <item>wallpaper_xpe_9</item>
+        <item>wallpaper_xpe_10</item>
+        <item>wallpaper_xpe_misaki</item>
+        <item>wallpaper_xpe_misaki2</item>
+        <item>wallpaper_xpe_misaki3</item>
+        <item>wallpaper_xpe_11</item>
+        <item>wallpaper_xpe_12</item>
+        <item>wallpaper_xpe_13</item>
+        <item>wallpaper_xpe_14</item>
+        <item>wallpaper_xpe_15</item>
+        <item>wallpaper_xpe_16</item>
+        <item>wallpaper_xpe_17</item>
+        <item>wallpaper_xpe_18</item>
+        <item>wallpaper_xpe_19</item>
+        <item>wallpaper_xpe_20</item>
     </string-array>
 
     <string-array name="wallpaper_options">
